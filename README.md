@@ -1,10 +1,4 @@
 ### 2-month Computer Vision learning plan
-
-1. **Strong foundational knowledge of CV techniques** (CNNs, object detection, segmentation).
-2. **Practical skills with key tools, libraries, and frameworks** (OpenCV, TensorFlow, PyTorch, etc.).
-3. **Ability to work on real-world projects**, which is crucial for job applications.
-4. **Knowledge of deployment and cloud integration**, important for production-level CV systems.
-
 ---
 
 ### Week 1-2: **Foundations of Computer Vision & CNNs**
